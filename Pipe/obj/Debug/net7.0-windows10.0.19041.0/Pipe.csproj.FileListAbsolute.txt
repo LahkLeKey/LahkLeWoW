@@ -1,0 +1,6 @@
+C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\LahkLeWoW\Pipe\obj\Debug\net7.0-windows10.0.19041.0\Pipe.csproj.AssemblyReference.cache
+C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\LahkLeWoW\Pipe\obj\Debug\net7.0-windows10.0.19041.0\Pipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\LahkLeWoW\Pipe\obj\Debug\net7.0-windows10.0.19041.0\Pipe.AssemblyInfoInputs.cache
+C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\LahkLeWoW\Pipe\obj\Debug\net7.0-windows10.0.19041.0\Pipe.AssemblyInfo.cs
+C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\LahkLeWoW\Pipe\obj\Debug\net7.0-windows10.0.19041.0\Pipe.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\LahkLeWoW\Pipe\obj\Debug\net7.0-windows10.0.19041.0\Pipe.MvcApplicationPartsAssemblyInfo.cache

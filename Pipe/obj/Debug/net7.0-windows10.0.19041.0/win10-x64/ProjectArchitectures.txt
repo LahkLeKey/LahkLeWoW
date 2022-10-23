@@ -1,0 +1,1 @@
+C:\Program Files (x86)\World of Warcraft\_retail_\Interface\AddOns\LahkLeWoW\Pipe\LahkLeWoW.csproj;x64

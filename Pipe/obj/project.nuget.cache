@@ -1,0 +1,81 @@
+{
+  "version": 2,
+  "dgSpecHash": "XxZNcfBN1zKbzZZExbQqqqhxd2JNmeRfA+zR0kKvMxfHWv6Px3gxWt6ePMsCqqWxbnw5WSocnKH4cnR00IJNjw==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\World of Warcraft\\_retail_\\Interface\\AddOns\\LahkLeWoW\\Pipe\\LahkLeWoW.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.authorization.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.components.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.components.analyzers.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.components.forms.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.aspnetcore.components.web\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.components.web.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.aspnetcore.components.webview\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.components.webview.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.aspnetcore.components.webview.maui\\7.0.0-rc.1.6683\\microsoft.aspnetcore.components.webview.maui.7.0.0-rc.1.6683.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.aspnetcore.metadata\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.metadata.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0-rc.1.22426.10\\microsoft.extensions.configuration.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.configuration.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0-rc.1.22426.10\\microsoft.extensions.configuration.binder.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\7.0.0-rc.1.22426.10\\microsoft.extensions.configuration.fileextensions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.configuration.json\\7.0.0-rc.1.22426.10\\microsoft.extensions.configuration.json.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-rc.1.22426.10\\microsoft.extensions.dependencyinjection.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.fileproviders.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.fileproviders.composite\\7.0.0-rc.1.22426.10\\microsoft.extensions.fileproviders.composite.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\7.0.0-rc.1.22427.2\\microsoft.extensions.fileproviders.embedded.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\7.0.0-rc.1.22426.10\\microsoft.extensions.fileproviders.physical.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\7.0.0-rc.1.22426.10\\microsoft.extensions.filesystemglobbing.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-rc.1.22426.10\\microsoft.extensions.logging.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-rc.1.22426.10\\microsoft.extensions.logging.abstractions.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.logging.debug\\7.0.0-rc.1.22426.10\\microsoft.extensions.logging.debug.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-rc.1.22426.10\\microsoft.extensions.options.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-rc.1.22426.10\\microsoft.extensions.primitives.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.graphics.win2d\\1.0.3.1\\microsoft.graphics.win2d.1.0.3.1.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.jsinterop\\7.0.0-rc.1.22427.2\\microsoft.jsinterop.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.maui.graphics\\7.0.0-rc.1.6683\\microsoft.maui.graphics.7.0.0-rc.1.6683.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.0-rc.1.6683\\microsoft.maui.graphics.win2d.winui.desktop.7.0.0-rc.1.6683.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.1\\microsoft.windows.sdk.buildtools.10.0.22621.1.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.windowsappsdk\\1.1.4\\microsoft.windowsappsdk.1.1.4.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\system.io.pipelines\\7.0.0-rc.1.22426.10\\system.io.pipelines.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\system.text.encodings.web\\7.0.0-rc.1.22426.10\\system.text.encodings.web.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\system.text.json\\7.0.0-rc.1.22426.10\\system.text.json.7.0.0-rc.1.22426.10.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.0-rc.1.22427.2\\microsoft.aspnetcore.app.runtime.win-x64.7.0.0-rc.1.22427.2.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.0-rc.1.22427.1\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.0-rc.1.22427.1.nupkg.sha512",
+    "C:\\Users\\Zephr\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.0-rc.1.22426.10\\microsoft.netcore.app.runtime.win-x64.7.0.0-rc.1.22426.10.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.AspNetCore.Components.WebView.Maui 7.0.0-rc.1.6683 depends on Microsoft.AspNetCore.Authorization (>= 7.0.0-rc.1.22427.1) but Microsoft.AspNetCore.Authorization 7.0.0-rc.1.22427.1 was not found. An approximate best match of Microsoft.AspNetCore.Authorization 7.0.0-rc.1.22427.2 was resolved.",
+      "libraryId": "Microsoft.AspNetCore.Authorization",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.AspNetCore.Components.WebView.Maui 7.0.0-rc.1.6683 depends on Microsoft.AspNetCore.Components.WebView (>= 7.0.0-rc.1.22427.1) but Microsoft.AspNetCore.Components.WebView 7.0.0-rc.1.22427.1 was not found. An approximate best match of Microsoft.AspNetCore.Components.WebView 7.0.0-rc.1.22427.2 was resolved.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebView",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Microsoft.AspNetCore.Components.WebView.Maui 7.0.0-rc.1.6683 depends on Microsoft.JSInterop (>= 7.0.0-rc.1.22427.1) but Microsoft.JSInterop 7.0.0-rc.1.22427.1 was not found. An approximate best match of Microsoft.JSInterop 7.0.0-rc.1.22427.2 was resolved.",
+      "libraryId": "Microsoft.JSInterop",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    }
+  ]
+}
