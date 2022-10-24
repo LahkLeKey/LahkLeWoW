@@ -1,4 +1,4 @@
-﻿namespace LahkLeWoW;
+﻿namespace Pipe;
 
 public partial class App : Application
 {

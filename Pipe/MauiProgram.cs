@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
-using LahkLeWoW.Data;
+using Pipe.Data;
 
-namespace LahkLeWoW;
+namespace Pipe;
 public static class MauiProgram
 {
     public static MauiApp CreateMauiApp()

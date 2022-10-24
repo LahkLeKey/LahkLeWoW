@@ -1,4 +1,4 @@
-namespace LahkLeWoW.Data;
+namespace Pipe.Data;
 
 public class WeatherForecastService
 {
