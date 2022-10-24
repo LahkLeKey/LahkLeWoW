@@ -73,7 +73,7 @@
             },
             "Microsoft.Extensions.Logging.Debug": {
               "target": "Package",
-              "version": "[7.0.0-rc.1.22426.10, )"
+              "version": "[7.0.0-rc.2.22472.3, )"
             },
             "Microsoft.Maui.Graphics": {
               "target": "Package",
@@ -111,19 +111,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[7.0.0-rc.1.22427.2, 7.0.0-rc.1.22427.2]"
+              "version": "[7.0.0-rc.2.22476.2, 7.0.0-rc.2.22476.2]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[7.0.0-rc.1.22426.10, 7.0.0-rc.1.22426.10]"
+              "version": "[7.0.0-rc.2.22472.3, 7.0.0-rc.2.22472.3]"
             },
             {
               "name": "Microsoft.Windows.SDK.NET.Ref",
-              "version": "[10.0.19041.26, 10.0.19041.26]"
+              "version": "[10.0.19041.27, 10.0.19041.27]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[7.0.0-rc.1.22427.1, 7.0.0-rc.1.22427.1]"
+              "version": "[7.0.0-rc.2.22472.13, 7.0.0-rc.2.22472.13]"
             }
           ],
           "frameworkReferences": {
@@ -143,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.1.22431.12\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
